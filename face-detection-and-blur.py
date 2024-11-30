@@ -54,7 +54,6 @@ while True:
 
             face = frame[y:y1, x:x1]
 
-            print(face)
 
 
             if(len(face)):
